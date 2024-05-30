@@ -17,7 +17,7 @@ run.py can be used to test your submission.
 
 # List your libraries and modules here. Don't forget to update environment.yml!
 import pandas as pd
-from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
 import joblib
 
 
